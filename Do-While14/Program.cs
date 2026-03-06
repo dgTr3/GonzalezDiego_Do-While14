@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Determinar número mayor hasta ingresar 0");
